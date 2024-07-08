@@ -75,3 +75,11 @@ th, td {
   border: solid 1px #f0f0f0;
   padding: 0.5rem;
 }
+
+/* --------------------
+          その他
+-------------------- */
+
+img.profileImg {
+  width: 50%;
+  height: 50%;
