@@ -39,6 +39,10 @@ a {
   text-decoration: none;
 }
 
+a.twitter {
+  justify-content: start;
+}
+
 /* --------------------
         リスト
 -------------------- */
